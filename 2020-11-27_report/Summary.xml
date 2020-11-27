@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>27/11/2020 - 15:28:25</Generatedon>
+    <Parser>MultiReportParser (2x OpenCoverParser)</Parser>
+    <Assemblies>2</Assemblies>
+    <Classes>4</Classes>
+    <Files>4</Files>
+    <Coveredlines>101</Coveredlines>
+    <Uncoveredlines>0</Uncoveredlines>
+    <Coverablelines>101</Coverablelines>
+    <Totallines>204</Totallines>
+    <Linecoverage>100</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly" classes="3" coverage="100" coveredlines="40" coverablelines="40" totallines="95" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Assets.Lib.InputReader" coverage="100" coveredlines="12" coverablelines="12" totallines="31" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="MouseLook" coverage="100" coveredlines="17" coverablelines="17" totallines="37" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PlayerMovement" coverage="100" coveredlines="11" coverablelines="11" totallines="27" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="100" coveredlines="61" coverablelines="61" totallines="109" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Tests.InputTests" coverage="100" coveredlines="61" coverablelines="61" totallines="109" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

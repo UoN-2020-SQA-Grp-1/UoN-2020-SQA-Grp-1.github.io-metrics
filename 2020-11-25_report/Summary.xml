@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>25/11/2020 - 23:04:28</Generatedon>
+    <Parser>OpenCoverParser</Parser>
+    <Assemblies>1</Assemblies>
+    <Classes>2</Classes>
+    <Files>2</Files>
+    <Coveredlines>0</Coveredlines>
+    <Uncoveredlines>18</Uncoveredlines>
+    <Coverablelines>18</Coverablelines>
+    <Totallines>52</Totallines>
+    <Linecoverage>0</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly-CSharp" classes="2" coverage="0" coveredlines="0" coverablelines="18" totallines="52" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="MouseLook" coverage="0" coveredlines="0" coverablelines="12" totallines="29" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PlayerMovement" coverage="0" coveredlines="0" coverablelines="6" totallines="23" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
