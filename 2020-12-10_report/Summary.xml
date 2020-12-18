@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>18/12/2020 - 18:47:37</Generatedon>
+    <Parser>MultiReportParser (6x OpenCoverParser)</Parser>
+    <Assemblies>2</Assemblies>
+    <Classes>8</Classes>
+    <Files>8</Files>
+    <Coveredlines>259</Coveredlines>
+    <Uncoveredlines>38</Uncoveredlines>
+    <Coverablelines>297</Coverablelines>
+    <Totallines>450</Totallines>
+    <Linecoverage>87.2</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="Assembly" classes="7" coverage="84" coveredlines="132" coverablelines="157" totallines="283" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Assets.Lib.InputReader" coverage="80" coveredlines="16" coverablelines="20" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="EnemyTakeDown" coverage="31.2" coveredlines="5" coverablelines="16" totallines="30" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Initialise" coverage="100" coveredlines="9" coverablelines="9" totallines="21" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="MouseLook" coverage="100" coveredlines="36" coverablelines="36" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="NPC" coverage="88.8" coveredlines="24" coverablelines="27" totallines="52" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PlayerMovement" coverage="100" coveredlines="24" coverablelines="24" totallines="37" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Sight" coverage="72" coveredlines="18" coverablelines="25" totallines="48" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="Tests" classes="1" coverage="90.7" coveredlines="127" coverablelines="140" totallines="167" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Tests.InputTests" coverage="90.7" coveredlines="127" coverablelines="140" totallines="167" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>
