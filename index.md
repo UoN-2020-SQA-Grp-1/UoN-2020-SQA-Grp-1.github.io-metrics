@@ -6,4 +6,3 @@
 * [10th December 2020](2020-12-10_report)
 * [20th December 2020](2020-12-20_report)
 * [Git Repository Statistics](gitStats)
-* [Git Repository Statistics (Scripts directory only)](gitStats_ScriptsOnly)
