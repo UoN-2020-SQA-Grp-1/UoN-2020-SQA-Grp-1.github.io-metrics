@@ -1,38 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CoverageReport scope="Summary">
   <Summary>
-    <Generatedon>21/12/2020 - 21:54:37</Generatedon>
+    <Generatedon>21/12/2020 - 22:03:34</Generatedon>
     <Parser>MultiReportParser (6x OpenCoverParser)</Parser>
     <Assemblies>2</Assemblies>
-    <Classes>33</Classes>
-    <Files>33</Files>
-    <Coveredlines>1550</Coveredlines>
-    <Uncoveredlines>407</Uncoveredlines>
-    <Coverablelines>1957</Coverablelines>
-    <Totallines>3205</Totallines>
-    <Linecoverage>79.2</Linecoverage>
+    <Classes>17</Classes>
+    <Files>17</Files>
+    <Coveredlines>528</Coveredlines>
+    <Uncoveredlines>72</Uncoveredlines>
+    <Coverablelines>600</Coverablelines>
+    <Totallines>1017</Totallines>
+    <Linecoverage>88</Linecoverage>
     <Coveredbranches>0</Coveredbranches>
     <Totalbranches>0</Totalbranches>
   </Summary>
   <Coverage>
-    <Assembly name="Assembly" classes="27" coverage="76.7" coveredlines="1277" coverablelines="1664" totallines="2711" branchcoverage="" coveredbranches="0" totalbranches="0">
+    <Assembly name="Assembly" classes="11" coverage="83" coveredlines="255" coverablelines="307" totallines="523" branchcoverage="" coveredbranches="0" totalbranches="0">
       <Class name="Assets.Lib.InputReader" coverage="80" coveredlines="16" coverablelines="20" totallines="45" branchcoverage="" coveredbranches="0" totalbranches="0" />
       <Class name="Assets.Lib.TextDisplayer" coverage="30" coveredlines="3" coverablelines="10" totallines="31" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="Detonator" coverage="83.1" coveredlines="227" coverablelines="273" totallines="441" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorBurstEmitter" coverage="90.2" coveredlines="166" coverablelines="184" totallines="300" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorCloudRing" coverage="0" coveredlines="0" coverablelines="65" totallines="100" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorComponent" coverage="100" coveredlines="32" coverablelines="32" totallines="77" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorFireball" coverage="91.3" coveredlines="137" coverablelines="150" totallines="213" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorForce" coverage="63.7" coveredlines="37" coverablelines="58" totallines="107" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorGlow" coverage="100" coveredlines="74" coverablelines="74" totallines="118" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorHeatwave" coverage="78.3" coveredlines="47" coverablelines="60" totallines="104" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorLight" coverage="84.6" coveredlines="33" coverablelines="39" totallines="63" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorShockwave" coverage="47.3" coveredlines="27" coverablelines="57" totallines="86" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorSmoke" coverage="100" coveredlines="115" coverablelines="115" totallines="165" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorSound" coverage="65.2" coveredlines="30" coverablelines="46" totallines="78" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorSparks" coverage="78.4" coveredlines="51" coverablelines="65" totallines="103" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorSpray" coverage="88.4" coveredlines="46" coverablelines="52" totallines="95" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="DetonatorTest" coverage="0" coveredlines="0" coverablelines="78" totallines="119" branchcoverage="" coveredbranches="0" totalbranches="0" />
       <Class name="DisplayInstruction" coverage="73.3" coveredlines="11" coverablelines="15" totallines="40" branchcoverage="" coveredbranches="0" totalbranches="0" />
       <Class name="EndLevel" coverage="100" coveredlines="12" coverablelines="12" totallines="35" branchcoverage="" coveredbranches="0" totalbranches="0" />
       <Class name="EnemyTakeDown" coverage="100" coveredlines="16" coverablelines="16" totallines="33" branchcoverage="" coveredbranches="0" totalbranches="0" />
@@ -42,7 +27,6 @@
       <Class name="NPC" coverage="94.4" coveredlines="68" coverablelines="72" totallines="102" branchcoverage="" coveredbranches="0" totalbranches="0" />
       <Class name="PlayerMovement" coverage="93.7" coveredlines="45" coverablelines="48" totallines="64" branchcoverage="" coveredbranches="0" totalbranches="0" />
       <Class name="Sight" coverage="44.8" coveredlines="22" coverablelines="49" totallines="82" branchcoverage="" coveredbranches="0" totalbranches="0" />
-      <Class name="TouchToMouse" coverage="0" coveredlines="0" coverablelines="9" totallines="19" branchcoverage="" coveredbranches="0" totalbranches="0" />
     </Assembly>
     <Assembly name="Tests" classes="6" coverage="93.1" coveredlines="273" coverablelines="293" totallines="494" branchcoverage="" coveredbranches="0" totalbranches="0">
       <Class name="Base" coverage="100" coveredlines="6" coverablelines="6" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
