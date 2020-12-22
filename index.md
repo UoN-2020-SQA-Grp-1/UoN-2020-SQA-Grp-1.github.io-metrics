@@ -1,6 +1,6 @@
 # Stealth Game
 
-[Game is playable here](Stealth_Game_Build)
+[Game is playable here](Stealth_game_build)
 
 # Coverage reports
 
