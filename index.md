@@ -1,3 +1,7 @@
+# Stealth Game
+
+[Game is playable here](Stealth_Game_Build)
+
 # Coverage reports
 
 * [27th November 2020](2020-11-27_report)
